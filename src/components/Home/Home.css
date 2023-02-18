@@ -1,0 +1,26 @@
+.container {
+    height: 100vh;
+    padding: 5rem;
+    box-sizing: border-box;
+}
+
+.vector-graphics {
+    filter: drop-shadow(0 40px 10px rgba(0, 0, 0, 0.3));
+    animation: vectorAnimation 700ms infinite ease-in-out alternate;
+}
+
+@keyframes vectorAnimation {
+    to{
+        transform: translateY(-10px);
+    }
+}
+
+.course {
+    width: 250px;
+    margin-bottom: 1rem;
+    transition: all 0.3s;
+}
+
+.course:hover {
+    transform: translateY(-10px);
+}
