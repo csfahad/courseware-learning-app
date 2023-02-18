@@ -1,68 +1,49 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Courseware Online learning platform
 
-## Available Scripts
+Hey👋, Built courseware online learning platform using MERN stack along with clean and crisp fully Responsive UI using Chakra UI with dark mode feature, added login/logout functionality, Integrated Razorpay for subscription based course, upload courses and lectures functionality, admin dashboard, you can also request for a specific course and share your reviews and messages about this platform. have lot of learnings while building this amazing project.🚀
 
-In the project directory, you can run:
+<h3>Check it out: https://courseware-csfahad.vercel.app/</h3>
 
-### `npm start`
+## Screenshots
+![frame_generic_dark (1)](https://user-images.githubusercontent.com/76874725/219869594-afd7dced-cafd-4343-a9e2-f085f8eab416.png)
+![frame_generic_dark (2)](https://user-images.githubusercontent.com/76874725/219869595-38075391-c726-4c96-bd74-02ce7b82c9d2.png)
+![frame_generic_dark (3)](https://user-images.githubusercontent.com/76874725/219869597-f09f53c8-19ca-4396-a785-b322c9ce97b0.png)
+![frame_generic_dark (4)](https://user-images.githubusercontent.com/76874725/219869601-c6c8569e-5d8b-4739-a2b7-ab6d9a8475d5.png)
+![frame_generic_dark (5)](https://user-images.githubusercontent.com/76874725/219869611-a6c572e9-ac61-42c2-b00a-79da21d427d1.png)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Installation
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+First Fork this repo & then Clone this repo
 
-### `npm test`
+```bash
+  git clone https://github.com/<YOUR_USERNAME>/courseware-learning-app.git
+  cd courseware-learning-app
+```
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Install the node_modules
 
-### `npm run build`
+```bash
+  npm install
+```
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+run the project
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+```bash
+  npm run start
+```
+    
+## Authors
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [@csfahad](https://www.github.com/csfahad)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## About Me
+A Full MERN-stack developer,Open Source Contributor,DevOps Folk and A CyberSecurity Geek as well from India🇮🇳
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csfahad)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fahad_cs)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<div align="center"><h3>Made with ❤️ by CsFahad</h3></div>
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
